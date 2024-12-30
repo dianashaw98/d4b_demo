@@ -1,18 +1,18 @@
 {
     "display_information": {
-        "name": "DashBot",
-        "description": "DashBot",
-        "background_color": "#115675"
+        "name": "SkiCarCoBot",
+        "description": "SkiCarCoBot - Supply Chain Bot",
+        "background_color": "#11567f"
     },
     "features": {
         "bot_user": {
-            "display_name": "DashBot",
+            "display_name": "SkiCarCoBot",
             "always_online": true
         },
         "slash_commands": [
             {
                 "command": "/askcortex",
-                "description": "Ask Snowflake Cortex",
+                "description": "Ask Snowflake Cortex Analyst",
                 "should_escape": false
             }
         ]
